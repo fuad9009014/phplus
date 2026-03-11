@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PHPlus icon">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#14532d" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)" />
+  <path
+    d="M20 16h11c6.1 0 11 4.9 11 11s-4.9 11-11 11h-5v10h-6V16zm6 6v10h5a5 5 0 1 0 0-10h-5zm18 17h6v5h5v6h-5v5h-6v-5h-5v-6h5v-5z"
+    fill="#ffffff"
+  />
+</svg>
