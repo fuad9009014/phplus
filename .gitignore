@@ -1,4 +1,5 @@
 .env
 __pycache__/
 *.pyc
-health_screening/
+health_screening/**
+!health_screening/.gitkeep
